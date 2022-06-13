@@ -16,4 +16,5 @@ if (salary <= 80) {
     console.log("Tax for salary bigger than 450 " + tax);
 }
 let moneyIGet = taxableAmount - tax;
-console.log("This is what you get mf :" + moneyIGet);
+console.log("This is what you get :" + moneyIGet);
+
